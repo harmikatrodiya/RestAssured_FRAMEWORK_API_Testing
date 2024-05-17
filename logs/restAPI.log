@@ -1,0 +1,1123 @@
+2024-05-13 17:35:21,954 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-13 17:35:23,427 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-13 17:35:23,427 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-13 17:35:23,433 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-13 17:35:23,433 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 00:35:26 GMT
+2024-05-13 17:35:23,435 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-13 17:35:23,459 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-13 17:35:23,463 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-13 17:35:23,465 [main] INFO  UserRestAPI - Response Time is :633
+2024-05-13 17:35:23,468 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-13 17:35:23,468 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-13 17:35:23,471 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-13 17:35:23,474 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-13 17:35:23,556 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-13 17:35:23,557 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-13 17:35:23,559 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-13 17:35:23,560 [main] INFO  UserRestAPI - Response Time is :78
+2024-05-13 17:35:23,563 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-13 17:35:23,563 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-13 17:35:23,565 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-13 17:35:23,567 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-13 17:35:28,999 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-13 17:35:29,000 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-13 17:35:29,605 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-13 17:35:29,605 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-13 17:35:29,606 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-13 17:35:29,607 [main] INFO  UserRestAPI - Response body is : {"name":"harmiW","job":"Qa Tester_bG","updatedAt":"2024-05-14T00:35:32.429Z"}
+2024-05-13 17:35:29,608 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-13 17:35:29,608 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-13 17:35:29,609 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-13 17:35:29,609 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-13 17:35:29,610 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-13 17:35:29,611 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-13 17:35:30,114 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-13 17:35:30,115 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-13 17:38:44,489 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-13 17:38:45,891 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-13 17:38:45,891 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-13 17:38:45,900 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-13 17:38:45,900 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 00:38:48 GMT
+2024-05-13 17:38:45,901 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-13 17:38:45,916 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-13 17:38:45,918 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-13 17:38:45,919 [main] INFO  UserRestAPI - Response Time is :593
+2024-05-13 17:38:45,921 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-13 17:38:45,921 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-13 17:38:45,923 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-13 17:38:45,926 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-13 17:38:46,008 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-13 17:38:46,008 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-13 17:38:46,010 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-13 17:38:46,011 [main] INFO  UserRestAPI - Response Time is :77
+2024-05-13 17:38:46,013 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-13 17:38:46,013 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-13 17:38:46,014 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-13 17:38:46,016 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-13 17:38:51,469 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-13 17:38:51,470 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-13 17:38:51,917 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-13 17:38:51,917 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-13 17:38:51,918 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-13 17:38:51,918 [main] INFO  UserRestAPI - Response body is : {"name":"harmiz","job":"Qa Tester_cL","updatedAt":"2024-05-14T00:38:54.762Z"}
+2024-05-13 17:38:51,920 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-13 17:38:51,920 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-13 17:38:51,921 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-13 17:38:51,921 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-13 17:38:51,923 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-13 17:38:51,924 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-13 17:38:52,435 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-13 17:38:52,436 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-13 17:39:45,930 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-13 17:39:47,326 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-13 17:39:47,326 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-13 17:39:47,336 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-13 17:39:47,336 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 00:39:50 GMT
+2024-05-13 17:39:47,338 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-13 17:39:47,354 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-13 17:39:47,357 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-13 17:39:47,359 [main] INFO  UserRestAPI - Response Time is :596
+2024-05-13 17:39:47,360 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-13 17:39:47,360 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-13 17:39:47,364 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-13 17:42:20,003 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-13 17:42:21,532 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-13 17:42:21,532 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-13 17:42:21,540 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-13 17:42:21,540 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 00:42:24 GMT
+2024-05-13 17:42:21,542 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-13 17:42:21,565 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-13 17:42:21,567 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-13 17:42:21,568 [main] INFO  UserRestAPI - Response Time is :682
+2024-05-13 17:42:21,570 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-13 17:42:21,570 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-13 17:42:21,572 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 15:48:09,612 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 15:48:11,425 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 15:48:11,425 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 15:48:11,431 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 15:48:11,431 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 22:48:15 GMT
+2024-05-14 15:48:11,433 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 15:48:11,450 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 15:48:11,453 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 15:48:11,454 [main] INFO  UserRestAPI - Response Time is :998
+2024-05-14 15:48:11,456 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 15:48:11,456 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 15:48:11,457 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 15:53:15,440 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 15:53:16,828 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 15:53:16,829 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 15:53:16,834 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 15:53:16,835 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 22:53:21 GMT
+2024-05-14 15:53:16,836 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 15:53:16,851 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 15:53:16,853 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 15:53:16,854 [main] INFO  UserRestAPI - Response Time is :625
+2024-05-14 15:53:16,856 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 15:53:16,856 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 15:53:16,858 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 15:56:38,076 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 15:56:39,564 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 15:56:39,564 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 15:56:39,571 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 15:56:39,571 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 22:56:43 GMT
+2024-05-14 15:56:39,573 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 15:56:39,598 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 15:56:39,601 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 15:56:39,603 [main] INFO  UserRestAPI - Response Time is :687
+2024-05-14 15:56:39,605 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 15:56:39,605 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 15:56:39,609 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 15:58:48,165 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 15:58:49,682 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 15:58:49,683 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 15:58:49,688 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 15:58:49,688 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 22:58:54 GMT
+2024-05-14 15:58:49,689 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 15:58:49,714 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 15:58:49,718 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 15:58:49,719 [main] INFO  UserRestAPI - Response Time is :710
+2024-05-14 15:58:49,721 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 15:58:49,722 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 15:58:49,723 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 16:00:22,773 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 16:00:24,194 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 16:00:24,195 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 16:00:24,202 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 16:00:24,202 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 23:00:28 GMT
+2024-05-14 16:00:24,204 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 16:00:24,226 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 16:00:24,228 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 16:00:24,230 [main] INFO  UserRestAPI - Response Time is :637
+2024-05-14 16:00:24,232 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 16:00:24,232 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 16:00:24,234 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 16:00:37,727 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 16:00:39,231 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 16:00:39,231 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 16:00:39,237 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 16:00:39,237 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 23:00:43 GMT
+2024-05-14 16:00:39,239 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 16:00:39,261 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 16:00:39,263 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 16:00:39,265 [main] INFO  UserRestAPI - Response Time is :721
+2024-05-14 16:00:39,267 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 16:00:39,268 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 16:00:39,270 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 16:02:16,597 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 16:02:18,079 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 16:02:18,079 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 16:02:18,086 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 16:02:18,086 [main] INFO  UserRestAPI - Date is :Tue, 14 May 2024 23:02:22 GMT
+2024-05-14 16:02:18,087 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 16:02:18,104 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 16:02:18,106 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 16:02:18,107 [main] INFO  UserRestAPI - Response Time is :623
+2024-05-14 16:02:18,109 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 16:02:18,109 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 16:02:18,110 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 17:03:00,308 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 17:03:01,801 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 17:03:01,801 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 17:03:01,807 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 17:03:01,807 [main] INFO  UserRestAPI - Date is :Wed, 15 May 2024 00:03:06 GMT
+2024-05-14 17:03:01,809 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 17:03:01,826 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 17:03:01,829 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 17:03:01,830 [main] INFO  UserRestAPI - Response Time is :731
+2024-05-14 17:03:01,832 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 17:03:01,832 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 17:03:01,833 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 17:03:01,837 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 17:03:02,254 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 17:03:02,254 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 17:03:02,257 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 17:03:02,257 [main] INFO  UserRestAPI - Response Time is :413
+2024-05-14 17:03:02,259 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 17:03:02,259 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 17:03:02,260 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-14 17:03:02,261 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-14 17:03:07,686 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-14 17:03:07,687 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-14 17:03:08,109 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-14 17:03:08,109 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 17:03:08,110 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-14 17:03:08,111 [main] INFO  UserRestAPI - Response body is : {"name":"harmiC","job":"Qa Tester_Ax","updatedAt":"2024-05-15T00:03:12.469Z"}
+2024-05-14 17:03:08,112 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-14 17:03:08,112 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-14 17:03:08,113 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-14 17:03:08,113 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-14 17:03:08,113 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-14 17:03:08,115 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-14 17:03:08,669 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-14 17:03:08,670 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-14 17:17:14,373 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 17:17:15,807 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 17:17:15,808 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 17:17:15,812 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 17:17:15,812 [main] INFO  UserRestAPI - Date is :Wed, 15 May 2024 00:17:20 GMT
+2024-05-14 17:17:15,812 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 17:17:15,825 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 17:17:15,826 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 17:17:15,827 [main] INFO  UserRestAPI - Response Time is :694
+2024-05-14 17:17:15,827 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 17:17:15,827 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 17:17:15,828 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 17:17:15,831 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 17:17:15,908 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 17:17:15,908 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 17:17:15,909 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 17:17:15,909 [main] INFO  UserRestAPI - Response Time is :73
+2024-05-14 17:17:15,909 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 17:17:15,909 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 17:17:15,910 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-14 17:17:15,913 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-14 17:17:21,353 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-14 17:17:21,354 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-14 17:17:22,193 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-14 17:17:22,193 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 17:17:22,194 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-14 17:17:22,194 [main] INFO  UserRestAPI - Response body is : {"name":"harmiZ","job":"Qa Tester_xa","updatedAt":"2024-05-15T00:17:26.548Z"}
+2024-05-14 17:17:22,195 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-14 17:17:22,195 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-14 17:17:22,195 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-14 17:17:22,195 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-14 17:17:22,196 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-14 17:17:22,197 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-14 17:17:22,795 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-14 17:17:22,796 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-14 21:09:35,656 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 21:09:37,402 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-14 21:09:37,403 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 21:09:37,405 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-14 21:09:37,405 [main] INFO  UserRestAPI - Date is :Wed, 15 May 2024 04:09:42 GMT
+2024-05-14 21:09:37,405 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 21:09:37,420 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 21:09:37,421 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 21:09:37,421 [main] INFO  UserRestAPI - Response Time is :1047
+2024-05-14 21:09:37,423 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 21:09:37,423 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 21:09:37,424 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-14 21:09:37,427 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-14 21:09:37,897 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-14 21:09:37,898 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-14 21:09:37,899 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-14 21:09:37,899 [main] INFO  UserRestAPI - Response Time is :466
+2024-05-14 21:09:37,900 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-14 21:09:37,900 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-14 21:09:37,900 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-14 21:09:37,902 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-14 21:09:43,351 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-14 21:09:43,353 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-14 21:09:43,887 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-14 21:09:43,887 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-14 21:09:43,887 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-14 21:09:43,888 [main] INFO  UserRestAPI - Response body is : {"name":"harmio","job":"Qa Tester_ek","updatedAt":"2024-05-15T04:09:48.731Z"}
+2024-05-14 21:09:43,888 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-14 21:09:43,888 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-14 21:09:43,892 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-14 21:09:43,892 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-14 21:09:43,892 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-14 21:09:43,893 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-14 21:09:44,466 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-14 21:09:44,467 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-15 21:31:06,234 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:31:08,523 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-15 21:31:08,524 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:31:08,527 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-15 21:31:08,528 [main] INFO  UserRestAPI - Date is :Thu, 16 May 2024 04:31:08 GMT
+2024-05-15 21:31:08,528 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:31:08,545 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:31:08,546 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:31:08,547 [main] INFO  UserRestAPI - Response Time is :1266
+2024-05-15 21:31:08,548 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:31:08,548 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:31:08,550 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-15 21:31:08,553 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:31:09,008 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:31:09,009 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:31:09,010 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:31:09,010 [main] INFO  UserRestAPI - Response Time is :449
+2024-05-15 21:31:09,011 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:31:09,011 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:31:09,012 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-15 21:31:09,014 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-15 21:31:14,541 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-15 21:31:14,545 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-15 21:31:15,050 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-15 21:31:15,050 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:31:15,051 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-15 21:31:15,051 [main] INFO  UserRestAPI - Response body is : {"name":"harmiy","job":"Qa Tester_FF","updatedAt":"2024-05-16T04:31:14.543Z"}
+2024-05-15 21:31:15,052 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-15 21:31:15,052 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-15 21:31:15,052 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-15 21:31:15,053 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-15 21:31:15,056 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-15 21:31:15,057 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-15 21:31:15,607 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-15 21:31:15,608 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-15 21:31:20,135 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:31:21,921 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-15 21:31:21,922 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:31:21,928 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-15 21:31:21,928 [main] INFO  UserRestAPI - Date is :Thu, 16 May 2024 04:31:21 GMT
+2024-05-15 21:31:21,929 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:31:21,951 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:31:21,952 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:31:21,953 [main] INFO  UserRestAPI - Response Time is :820
+2024-05-15 21:31:21,954 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:31:21,954 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:31:21,955 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-15 21:31:21,959 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:31:22,078 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:31:22,079 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:31:22,080 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:31:22,080 [main] INFO  UserRestAPI - Response Time is :112
+2024-05-15 21:31:22,081 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:31:22,081 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:31:22,081 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-15 21:31:22,083 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-15 21:31:27,636 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-15 21:31:27,639 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-15 21:31:28,158 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-15 21:31:28,158 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:31:28,159 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-15 21:31:28,160 [main] INFO  UserRestAPI - Response body is : {"name":"harmic","job":"Qa Tester_iH","updatedAt":"2024-05-16T04:31:27.665Z"}
+2024-05-15 21:31:28,160 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-15 21:31:28,160 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-15 21:31:28,163 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-15 21:31:28,163 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-15 21:31:28,164 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-15 21:31:28,166 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-15 21:31:28,773 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-15 21:31:28,773 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-15 21:45:19,355 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:45:20,761 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-15 21:45:20,762 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:45:20,764 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-15 21:45:20,764 [main] INFO  UserRestAPI - Date is :Thu, 16 May 2024 04:45:20 GMT
+2024-05-15 21:45:20,765 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:45:20,781 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:45:20,781 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:45:20,782 [main] INFO  UserRestAPI - Response Time is :686
+2024-05-15 21:45:20,783 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:45:20,783 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:45:20,784 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-15 21:45:20,786 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:45:20,941 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:45:20,942 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:45:20,942 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:45:20,942 [main] INFO  UserRestAPI - Response Time is :150
+2024-05-15 21:45:20,943 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:45:20,943 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:45:20,944 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-15 21:45:20,946 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-15 21:45:26,488 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-15 21:45:26,490 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-15 21:45:26,935 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-15 21:45:26,935 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:45:26,936 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-15 21:45:26,937 [main] INFO  UserRestAPI - Response body is : {"name":"harmiD","job":"Qa Tester_Tx","updatedAt":"2024-05-16T04:45:26.471Z"}
+2024-05-15 21:45:26,937 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-15 21:45:26,937 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-15 21:45:26,940 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-15 21:45:26,940 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-15 21:45:26,940 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-15 21:45:26,942 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-15 21:45:27,465 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-15 21:45:27,466 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-15 21:47:03,573 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:47:04,769 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-15 21:47:04,770 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:47:04,773 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-15 21:47:04,774 [main] INFO  UserRestAPI - Date is :Thu, 16 May 2024 04:47:04 GMT
+2024-05-15 21:47:04,774 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:47:04,787 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:47:04,788 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:47:04,789 [main] INFO  UserRestAPI - Response Time is :571
+2024-05-15 21:47:04,789 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:47:04,789 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:47:04,790 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-15 21:47:04,792 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 21:47:04,931 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 21:47:04,931 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 21:47:04,932 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 21:47:04,932 [main] INFO  UserRestAPI - Response Time is :134
+2024-05-15 21:47:04,932 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 21:47:04,932 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 21:47:04,933 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-15 21:47:04,934 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-15 21:47:10,409 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-15 21:47:10,412 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-15 21:47:10,899 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-15 21:47:10,899 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 21:47:10,900 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-15 21:47:10,900 [main] INFO  UserRestAPI - Response body is : {"name":"harmiX","job":"Qa Tester_ED","updatedAt":"2024-05-16T04:47:10.436Z"}
+2024-05-15 21:47:10,901 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-15 21:47:10,901 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-15 21:47:10,901 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-15 21:47:10,902 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-15 21:47:10,904 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-15 21:47:10,906 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-15 21:47:11,537 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-15 21:47:11,538 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-15 22:15:07,697 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 22:15:09,001 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-15 22:15:09,001 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 22:15:09,006 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-15 22:15:09,006 [main] INFO  UserRestAPI - Date is :Thu, 16 May 2024 05:15:08 GMT
+2024-05-15 22:15:09,009 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 22:15:09,024 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 22:15:09,025 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 22:15:09,026 [main] INFO  UserRestAPI - Response Time is :566
+2024-05-15 22:15:09,028 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 22:15:09,029 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 22:15:09,031 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-15 22:15:09,033 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-15 22:15:09,114 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-15 22:15:09,115 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-15 22:15:09,117 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-15 22:15:09,117 [main] INFO  UserRestAPI - Response Time is :75
+2024-05-15 22:15:09,119 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-15 22:15:09,119 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-15 22:15:09,122 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-15 22:15:09,124 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-15 22:15:14,547 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-15 22:15:14,549 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-15 22:15:14,987 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-15 22:15:14,988 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-15 22:15:14,989 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-15 22:15:14,990 [main] INFO  UserRestAPI - Response body is : {"name":"harmiW","job":"Qa Tester_CB","updatedAt":"2024-05-16T05:15:14.534Z"}
+2024-05-15 22:15:14,991 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-15 22:15:14,991 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-15 22:15:14,992 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-15 22:15:14,992 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-15 22:15:14,993 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-15 22:15:14,994 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-15 22:15:15,487 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-15 22:15:15,488 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:29:08,606 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:29:10,849 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:29:10,849 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:29:10,852 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:29:10,853 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:29:12 GMT
+2024-05-17 13:29:10,853 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:29:10,872 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:29:10,873 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:29:10,874 [main] INFO  UserRestAPI - Response Time is :1301
+2024-05-17 13:29:10,874 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:29:10,875 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:29:10,875 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:29:10,879 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:29:11,328 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:29:11,329 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:29:11,330 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:29:11,330 [main] INFO  UserRestAPI - Response Time is :442
+2024-05-17 13:29:11,331 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:29:11,331 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:29:11,332 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:29:11,334 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:29:16,850 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:29:16,853 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:29:17,312 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:29:17,313 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:29:17,313 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:29:17,314 [main] INFO  UserRestAPI - Response body is : {"name":"harmim","job":"Qa Tester_qz","updatedAt":"2024-05-17T20:29:18.808Z"}
+2024-05-17 13:29:17,314 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:29:17,314 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:29:17,315 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:29:17,315 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:29:17,318 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:29:17,320 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:29:17,836 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:29:17,837 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:37:52,534 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:37:54,154 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:37:54,154 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:37:54,158 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:37:54,158 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:37:55 GMT
+2024-05-17 13:37:54,158 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:37:54,176 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:37:54,177 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:37:54,178 [main] INFO  UserRestAPI - Response Time is :687
+2024-05-17 13:37:54,179 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:37:54,179 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:37:54,181 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:37:54,184 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:37:54,283 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:37:54,283 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:37:54,284 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:37:54,284 [main] INFO  UserRestAPI - Response Time is :93
+2024-05-17 13:37:54,285 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:37:54,285 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:37:54,286 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:37:54,288 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:37:59,813 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:37:59,815 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:38:00,349 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:38:00,349 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:38:00,349 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:38:00,350 [main] INFO  UserRestAPI - Response body is : {"name":"harmiE","job":"Qa Tester_jQ","updatedAt":"2024-05-17T20:38:01.785Z"}
+2024-05-17 13:38:00,350 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:38:00,351 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:38:00,354 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:38:00,354 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:38:00,355 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:38:00,357 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:38:00,963 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:38:00,964 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:46:17,490 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:46:19,256 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:46:19,257 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:46:19,260 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:46:19,260 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:46:20 GMT
+2024-05-17 13:46:19,261 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:46:19,282 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:46:19,283 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:46:19,284 [main] INFO  UserRestAPI - Response Time is :735
+2024-05-17 13:46:19,285 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:46:19,285 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:46:19,286 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:46:19,289 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:46:19,389 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:46:19,389 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:46:19,390 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:46:19,390 [main] INFO  UserRestAPI - Response Time is :94
+2024-05-17 13:46:19,391 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:46:19,391 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:46:19,392 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:46:19,394 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:46:24,874 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:46:24,876 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:46:25,316 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:46:25,317 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:46:25,317 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:46:25,318 [main] INFO  UserRestAPI - Response body is : {"name":"harmiM","job":"Qa Tester_kX","updatedAt":"2024-05-17T20:46:26.807Z"}
+2024-05-17 13:46:25,319 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:46:25,319 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:46:25,319 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:46:25,319 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:46:25,320 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:46:25,322 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:46:25,901 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:46:25,902 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:50:00,959 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:50:02,248 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:50:02,250 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:50:02,253 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:50:02,253 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:50:03 GMT
+2024-05-17 13:50:02,254 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:50:02,266 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:50:02,266 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:50:02,267 [main] INFO  UserRestAPI - Response Time is :506
+2024-05-17 13:50:02,268 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:50:02,268 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:50:02,268 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:50:02,271 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:50:02,355 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:50:02,355 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:50:02,356 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:50:02,356 [main] INFO  UserRestAPI - Response Time is :77
+2024-05-17 13:50:02,356 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:50:02,356 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:50:02,356 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:50:02,358 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:50:07,793 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:50:07,795 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:50:08,202 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:50:08,202 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:50:08,202 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:50:08,203 [main] INFO  UserRestAPI - Response body is : {"name":"harmis","job":"Qa Tester_Nb","updatedAt":"2024-05-17T20:50:09.706Z"}
+2024-05-17 13:50:08,203 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:50:08,203 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:50:08,204 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:50:08,204 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:50:08,204 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:50:08,206 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:50:08,701 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:50:08,702 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:51:00,360 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:51:01,578 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:51:01,578 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:51:01,581 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:51:01,581 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:51:03 GMT
+2024-05-17 13:51:01,581 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:51:01,597 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:51:01,598 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:51:01,599 [main] INFO  UserRestAPI - Response Time is :474
+2024-05-17 13:51:01,599 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:51:01,599 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:51:01,600 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:51:01,602 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:51:01,715 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:51:01,716 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:51:01,718 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:51:01,718 [main] INFO  UserRestAPI - Response Time is :108
+2024-05-17 13:51:01,719 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:51:01,719 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:51:01,720 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:51:01,723 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:51:07,149 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:51:07,151 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:51:07,583 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:51:07,584 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:51:07,584 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:51:07,584 [main] INFO  UserRestAPI - Response body is : {"name":"harmic","job":"Qa Tester_ha","updatedAt":"2024-05-17T20:51:09.076Z"}
+2024-05-17 13:51:07,585 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:51:07,585 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:51:07,585 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:51:07,586 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:51:07,586 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:51:07,587 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:51:08,096 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:51:08,096 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:52:00,567 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:52:01,788 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:52:01,789 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:52:01,792 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:52:01,792 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:52:03 GMT
+2024-05-17 13:52:01,793 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:52:01,809 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:52:01,809 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:52:01,810 [main] INFO  UserRestAPI - Response Time is :523
+2024-05-17 13:52:01,811 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:52:01,811 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:52:01,812 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:52:01,814 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:52:01,902 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:52:01,902 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:52:01,903 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:52:01,903 [main] INFO  UserRestAPI - Response Time is :82
+2024-05-17 13:52:01,903 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:52:01,903 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:52:01,904 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:52:01,905 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:52:07,352 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:52:07,354 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:52:07,808 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:52:07,808 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:52:07,809 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:52:07,809 [main] INFO  UserRestAPI - Response body is : {"name":"harmiI","job":"Qa Tester_wS","updatedAt":"2024-05-17T20:52:09.304Z"}
+2024-05-17 13:52:07,810 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:52:07,810 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:52:07,810 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:52:07,810 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:52:07,811 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:52:07,813 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:52:08,347 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:52:08,347 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:53:00,252 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:53:01,498 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:53:01,498 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:53:01,502 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:53:01,503 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:53:03 GMT
+2024-05-17 13:53:01,503 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:53:01,517 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:53:01,517 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:53:01,518 [main] INFO  UserRestAPI - Response Time is :537
+2024-05-17 13:53:01,519 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:53:01,519 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:53:01,520 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:53:01,522 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:53:01,644 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:53:01,645 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:53:01,645 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:53:01,646 [main] INFO  UserRestAPI - Response Time is :118
+2024-05-17 13:53:01,646 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:53:01,646 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:53:01,646 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:53:01,647 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:53:07,074 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:53:07,075 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - Response body is : {"name":"harmie","job":"Qa Tester_FN","updatedAt":"2024-05-17T20:53:08.995Z"}
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:53:07,496 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:53:07,497 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:53:07,497 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:53:07,498 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:53:08,047 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:53:08,047 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:54:00,224 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:54:01,362 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:54:01,362 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:54:01,364 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:54:01,365 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:54:02 GMT
+2024-05-17 13:54:01,365 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:54:01,378 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:54:01,378 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:54:01,379 [main] INFO  UserRestAPI - Response Time is :438
+2024-05-17 13:54:01,379 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:54:01,379 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:54:01,381 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:54:01,383 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:54:01,470 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:54:01,470 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:54:01,470 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:54:01,471 [main] INFO  UserRestAPI - Response Time is :82
+2024-05-17 13:54:01,471 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:54:01,471 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:54:01,471 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:54:01,473 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:54:06,886 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:54:06,888 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:54:07,321 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:54:07,321 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:54:07,322 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:54:07,322 [main] INFO  UserRestAPI - Response body is : {"name":"harmix","job":"Qa Tester_wR","updatedAt":"2024-05-17T20:54:08.820Z"}
+2024-05-17 13:54:07,323 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:54:07,323 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:54:07,323 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:54:07,323 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:54:07,324 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:54:07,325 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:54:07,881 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:54:07,881 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:55:00,714 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:55:01,971 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:55:01,971 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:55:01,974 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:55:01,974 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:55:03 GMT
+2024-05-17 13:55:01,975 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:55:01,987 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:55:01,987 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:55:01,988 [main] INFO  UserRestAPI - Response Time is :533
+2024-05-17 13:55:01,989 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:55:01,989 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:55:01,990 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:55:01,992 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:55:02,191 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:55:02,192 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:55:02,193 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:55:02,193 [main] INFO  UserRestAPI - Response Time is :195
+2024-05-17 13:55:02,193 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:55:02,193 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:55:02,194 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:55:02,195 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:55:07,731 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:55:07,733 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:55:08,176 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:55:08,176 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:55:08,177 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:55:08,177 [main] INFO  UserRestAPI - Response body is : {"name":"harmiS","job":"Qa Tester_nr","updatedAt":"2024-05-17T20:55:09.671Z"}
+2024-05-17 13:55:08,178 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:55:08,178 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:55:08,179 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:55:08,179 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:55:08,179 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:55:08,181 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:55:08,684 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:55:08,685 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:56:00,581 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:56:01,905 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:56:01,905 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:56:01,908 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:56:01,908 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:56:03 GMT
+2024-05-17 13:56:01,908 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:56:01,920 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:56:01,921 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:56:01,922 [main] INFO  UserRestAPI - Response Time is :491
+2024-05-17 13:56:01,922 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:56:01,922 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:56:01,923 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:56:01,924 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:56:02,033 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:56:02,034 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:56:02,035 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:56:02,036 [main] INFO  UserRestAPI - Response Time is :104
+2024-05-17 13:56:02,036 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:56:02,037 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:56:02,037 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:56:02,041 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:56:07,497 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:56:07,498 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:56:07,941 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:56:07,941 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:56:07,941 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:56:07,941 [main] INFO  UserRestAPI - Response body is : {"name":"harmiE","job":"Qa Tester_vY","updatedAt":"2024-05-17T20:56:09.436Z"}
+2024-05-17 13:56:07,942 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:56:07,942 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:56:07,942 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:56:07,942 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:56:07,942 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:56:07,944 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:56:08,471 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:56:08,472 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:57:00,239 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:57:01,445 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:57:01,445 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:57:01,448 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:57:01,448 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:57:02 GMT
+2024-05-17 13:57:01,449 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:57:01,467 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:57:01,467 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:57:01,468 [main] INFO  UserRestAPI - Response Time is :503
+2024-05-17 13:57:01,469 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:57:01,469 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:57:01,470 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:57:01,473 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:57:01,567 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:57:01,567 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:57:01,568 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:57:01,568 [main] INFO  UserRestAPI - Response Time is :87
+2024-05-17 13:57:01,568 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:57:01,568 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:57:01,569 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:57:01,570 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:57:07,001 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:57:07,002 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:57:07,451 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:57:07,451 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - Response body is : {"name":"harmij","job":"Qa Tester_Ul","updatedAt":"2024-05-17T20:57:08.936Z"}
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:57:07,452 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:57:07,454 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:57:07,971 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:57:07,971 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:58:00,382 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:58:01,583 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:58:01,583 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:58:01,586 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:58:01,587 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:58:03 GMT
+2024-05-17 13:58:01,587 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:58:01,601 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:58:01,601 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:58:01,602 [main] INFO  UserRestAPI - Response Time is :477
+2024-05-17 13:58:01,603 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:58:01,603 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:58:01,604 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:58:01,607 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:58:01,686 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:58:01,686 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:58:01,687 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:58:01,687 [main] INFO  UserRestAPI - Response Time is :75
+2024-05-17 13:58:01,687 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:58:01,687 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:58:01,688 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:58:01,689 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:58:07,128 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:58:07,130 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:58:07,553 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:58:07,553 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:58:07,554 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:58:07,554 [main] INFO  UserRestAPI - Response body is : {"name":"harmij","job":"Qa Tester_bB","updatedAt":"2024-05-17T20:58:09.048Z"}
+2024-05-17 13:58:07,554 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:58:07,555 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:58:07,555 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:58:07,555 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:58:07,555 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:58:07,557 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:58:08,074 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:58:08,076 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 13:59:00,500 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:59:01,721 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 13:59:01,722 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:59:01,724 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 13:59:01,724 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 20:59:03 GMT
+2024-05-17 13:59:01,724 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:59:01,738 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:59:01,738 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:59:01,739 [main] INFO  UserRestAPI - Response Time is :461
+2024-05-17 13:59:01,740 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:59:01,740 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:59:01,740 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 13:59:01,742 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 13:59:01,828 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 13:59:01,829 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 13:59:01,829 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 13:59:01,829 [main] INFO  UserRestAPI - Response Time is :81
+2024-05-17 13:59:01,830 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 13:59:01,830 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 13:59:01,830 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 13:59:01,832 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 13:59:07,243 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 13:59:07,245 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 13:59:07,690 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 13:59:07,690 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 13:59:07,690 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 13:59:07,691 [main] INFO  UserRestAPI - Response body is : {"name":"harmiW","job":"Qa Tester_Yv","updatedAt":"2024-05-17T20:59:09.184Z"}
+2024-05-17 13:59:07,691 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 13:59:07,691 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 13:59:07,691 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 13:59:07,691 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 13:59:07,692 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 13:59:07,694 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 13:59:08,229 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 13:59:08,230 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 14:00:00,682 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:00:01,997 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 14:00:01,997 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:00:02,001 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 14:00:02,001 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 21:00:03 GMT
+2024-05-17 14:00:02,001 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:00:02,015 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:00:02,016 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:00:02,016 [main] INFO  UserRestAPI - Response Time is :527
+2024-05-17 14:00:02,017 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:00:02,017 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:00:02,017 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 14:00:02,019 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:00:02,106 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:00:02,108 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:00:02,109 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:00:02,109 [main] INFO  UserRestAPI - Response Time is :83
+2024-05-17 14:00:02,109 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:00:02,109 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:00:02,110 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 14:00:02,111 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 14:00:07,522 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 14:00:07,523 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 14:00:07,931 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 14:00:07,931 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:00:07,932 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 14:00:07,932 [main] INFO  UserRestAPI - Response body is : {"name":"harmiD","job":"Qa Tester_iL","updatedAt":"2024-05-17T21:00:09.435Z"}
+2024-05-17 14:00:07,933 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 14:00:07,933 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 14:00:07,933 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 14:00:07,933 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 14:00:07,934 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 14:00:07,935 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 14:00:08,473 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 14:00:08,474 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 14:01:00,508 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:01:01,731 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 14:01:01,732 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:01:01,735 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 14:01:01,736 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 21:01:03 GMT
+2024-05-17 14:01:01,736 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:01:01,750 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:01:01,751 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:01:01,752 [main] INFO  UserRestAPI - Response Time is :474
+2024-05-17 14:01:01,752 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:01:01,752 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:01:01,753 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 14:01:01,755 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:01:01,850 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:01:01,851 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:01:01,852 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:01:01,853 [main] INFO  UserRestAPI - Response Time is :89
+2024-05-17 14:01:01,854 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:01:01,854 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:01:01,856 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 14:01:01,859 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 14:01:07,350 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 14:01:07,352 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 14:01:07,797 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 14:01:07,797 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:01:07,798 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 14:01:07,798 [main] INFO  UserRestAPI - Response body is : {"name":"harmiS","job":"Qa Tester_Sp","updatedAt":"2024-05-17T21:01:09.284Z"}
+2024-05-17 14:01:07,799 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 14:01:07,799 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 14:01:07,799 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 14:01:07,799 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 14:01:07,800 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 14:01:07,802 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 14:01:08,322 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 14:01:08,322 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 14:02:00,568 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:02:02,156 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 14:02:02,157 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:02:02,163 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 14:02:02,163 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 21:02:03 GMT
+2024-05-17 14:02:02,163 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:02:02,185 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:02:02,186 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:02:02,188 [main] INFO  UserRestAPI - Response Time is :681
+2024-05-17 14:02:02,188 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:02:02,189 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:02:02,190 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 14:02:02,194 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:02:02,312 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:02:02,312 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:02:02,313 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:02:02,313 [main] INFO  UserRestAPI - Response Time is :111
+2024-05-17 14:02:02,314 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:02:02,314 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:02:02,314 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 14:02:02,316 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 14:02:07,747 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 14:02:07,749 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 14:02:08,182 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 14:02:08,182 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:02:08,182 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 14:02:08,183 [main] INFO  UserRestAPI - Response body is : {"name":"harmiZ","job":"Qa Tester_Mj","updatedAt":"2024-05-17T21:02:09.678Z"}
+2024-05-17 14:02:08,183 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 14:02:08,183 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 14:02:08,183 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 14:02:08,183 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 14:02:08,184 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 14:02:08,185 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 14:02:08,731 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 14:02:08,731 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 14:03:01,842 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:03:03,447 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 14:03:03,448 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:03:03,452 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 14:03:03,452 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 21:03:04 GMT
+2024-05-17 14:03:03,453 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:03:03,471 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:03:03,472 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:03:03,473 [main] INFO  UserRestAPI - Response Time is :713
+2024-05-17 14:03:03,474 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:03:03,474 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:03:03,475 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 14:03:03,477 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:03:03,644 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:03:03,645 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:03:03,645 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:03:03,645 [main] INFO  UserRestAPI - Response Time is :159
+2024-05-17 14:03:03,646 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:03:03,646 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:03:03,647 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 14:03:03,648 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 14:03:09,097 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 14:03:09,098 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 14:03:09,535 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 14:03:09,535 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:03:09,535 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 14:03:09,536 [main] INFO  UserRestAPI - Response body is : {"name":"harmin","job":"Qa Tester_ho","updatedAt":"2024-05-17T21:03:11.034Z"}
+2024-05-17 14:03:09,536 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 14:03:09,536 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 14:03:09,536 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 14:03:09,537 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 14:03:09,537 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 14:03:09,539 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 14:03:10,044 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 14:03:10,044 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 14:04:01,765 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:04:03,317 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 14:04:03,317 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:04:03,323 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 14:04:03,323 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 21:04:04 GMT
+2024-05-17 14:04:03,324 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:04:03,348 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:04:03,349 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:04:03,351 [main] INFO  UserRestAPI - Response Time is :645
+2024-05-17 14:04:03,352 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:04:03,352 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:04:03,353 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 14:04:03,357 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:04:03,507 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:04:03,507 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:04:03,508 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:04:03,508 [main] INFO  UserRestAPI - Response Time is :141
+2024-05-17 14:04:03,509 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:04:03,509 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:04:03,509 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 14:04:03,511 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 14:04:08,934 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 14:04:08,936 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 14:04:09,372 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 14:04:09,372 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:04:09,372 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 14:04:09,373 [main] INFO  UserRestAPI - Response body is : {"name":"harmiu","job":"Qa Tester_OE","updatedAt":"2024-05-17T21:04:10.870Z"}
+2024-05-17 14:04:09,373 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 14:04:09,373 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 14:04:09,373 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 14:04:09,373 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 14:04:09,374 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 14:04:09,375 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 14:04:09,862 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 14:04:09,862 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************
+2024-05-17 14:16:53,000 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:16:54,238 [main] INFO  UserRestAPI - **************** Checking Content Type *****************
+2024-05-17 14:16:54,239 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:16:54,242 [main] INFO  UserRestAPI - **************** Checking Date *****************
+2024-05-17 14:16:54,242 [main] INFO  UserRestAPI - Date is :Fri, 17 May 2024 21:16:55 GMT
+2024-05-17 14:16:54,243 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:16:54,256 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:16:54,257 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:16:54,258 [main] INFO  UserRestAPI - Response Time is :517
+2024-05-17 14:16:54,259 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:16:54,259 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:16:54,260 [main] INFO  UserRestAPI - **********  Finished TC01_Get_Users **************
+2024-05-17 14:16:54,263 [main] INFO  UserRestAPI - **************** Started gelAllUses ******************
+2024-05-17 14:16:54,355 [main] INFO  UserRestAPI - **************** Checking Response Body *****************
+2024-05-17 14:16:54,356 [main] INFO  UserRestAPI - Response Body is :{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2024-05-17 14:16:54,357 [main] INFO  UserRestAPI - **************** Checking Response Time *****************
+2024-05-17 14:16:54,357 [main] INFO  UserRestAPI - Response Time is :86
+2024-05-17 14:16:54,357 [main] INFO  UserRestAPI - **************** Checking Status Code *****************
+2024-05-17 14:16:54,357 [main] INFO  UserRestAPI - Status Code is :200
+2024-05-17 14:16:54,358 [main] INFO  UserRestAPI - **************** Finished TC02_Get_Single_User ******************
+2024-05-17 14:16:54,359 [main] INFO  UserRestAPI - **************** Started Create Employee ******************
+2024-05-17 14:16:59,771 [main] INFO  UserRestAPI - **************** Finished Create Employee ******************
+2024-05-17 14:16:59,774 [main] INFO  UserRestAPI - ********* Started TC03_Put_User_Record **********
+2024-05-17 14:17:00,216 [main] INFO  UserRestAPI - ****** Checking Content Type ******
+2024-05-17 14:17:00,216 [main] INFO  UserRestAPI - Content Type is :application/json; charset=utf-8
+2024-05-17 14:17:00,217 [main] INFO  UserRestAPI - ******** Checking Response Body **********
+2024-05-17 14:17:00,217 [main] INFO  UserRestAPI - Response body is : {"name":"harmiE","job":"Qa Tester_Nm","updatedAt":"2024-05-17T21:17:01.708Z"}
+2024-05-17 14:17:00,217 [main] INFO  UserRestAPI - ******* Checking Server Type *******
+2024-05-17 14:17:00,217 [main] INFO  UserRestAPI - Server Type Is: cloudflare
+2024-05-17 14:17:00,218 [main] INFO  UserRestAPI - ******* Cheking Status Code ********
+2024-05-17 14:17:00,218 [main] INFO  UserRestAPI - Status COde is : 200
+2024-05-17 14:17:00,218 [main] INFO  UserRestAPI - ******* Finished TC04_Put_User_Record ******
+2024-05-17 14:17:00,220 [main] INFO  UserRestAPI - ******* Started TC05_Delete_User_Record ******
+2024-05-17 14:17:00,705 [main] INFO  UserRestAPI - ***** Status code is : 204
+2024-05-17 14:17:00,706 [main] INFO  UserRestAPI - *************** Finished TC05_Delete_User_Record ****************

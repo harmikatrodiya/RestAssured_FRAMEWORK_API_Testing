@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project []>
+<suite parallel="false" name="Suite">
+	<listners>
+		<listner class-name = "utilities.Listners" />
+	</listners>
+	<test name="Test">
+		<classes>
+			<class name="testCases.TC01_Get_Users" />
+			<class name="testCases.TC02_Get_Single_User" />
+			<class name="testCases.TC03_Post_User_Record" />
+			<class name="testCases.TC04_Put_User_Record" />
+			<class name="testCases.TC05_Delete_User_Record" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+ 
