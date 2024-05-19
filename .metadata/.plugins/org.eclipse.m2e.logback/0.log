@@ -1,0 +1,24 @@
+2024-05-19 13:08:40,046 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-19 13:11:19,029 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tests:RestAssuredFramework_API_Testing:0.0.1-SNAPSHOT @ C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\pom.xml.
+2024-05-19 13:11:19,029 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tests:RestAssuredFramework_API_Testing:0.0.1-SNAPSHOT @ C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\pom.xml.
+2024-05-19 13:11:19,754 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:11:19,754 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\main\resources
+2024-05-19 13:11:19,758 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:11:19,758 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\test\resources
+2024-05-19 13:11:21,336 [Worker-32: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tests:RestAssuredFramework_API_Testing:0.0.1-SNAPSHOT @ C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\pom.xml.
+2024-05-19 13:11:21,348 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:11:21,348 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\main\resources
+2024-05-19 13:11:21,352 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:11:21,352 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\test\resources
+2024-05-19 13:11:22,428 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:11:22,428 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\main\resources
+2024-05-19 13:11:22,430 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:11:22,430 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\test\resources
+2024-05-19 13:13:05,273 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:13:05,274 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\main\resources
+2024-05-19 13:13:05,277 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:13:05,277 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\test\resources
+2024-05-19 13:13:06,320 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:13:06,320 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\main\resources
+2024-05-19 13:13:06,322 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-19 13:13:06,322 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rkatr\git\RestAssured_FRAMEWORK_API_Testing\src\test\resources
